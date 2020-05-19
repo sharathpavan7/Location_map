@@ -34,4 +34,6 @@ dependencies {
 
     // Dexter lib for runtime permissions
     implementation 'com.karumi:dexter:6.1.2'
+
+    implementation 'com.google.android.libraries.places:places:2.2.0'
 }
